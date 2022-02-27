@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 426163e67144c8a4b9783de547789c7b, type: 3}
+  m_Name: A 2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: -2040709108384612746, guid: aecd859a8d09249aabcb2e06aef4fbfa, type: 3}
+  maxHp: 12
+  hp: 12
+  baseDMG: 2
+  moves: []
+  ai: {fileID: 11400000, guid: 7028b351789115148a31a04db3015c0e, type: 2}
